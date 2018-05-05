@@ -19,7 +19,6 @@ int main(int argc, const char *argv[])
 		printf("\n");
 	}
 
-	printf("\n");
 
 	for(i=0; i<3; i++)   //互换规律：[0][1]<->[1][0]
 	{                             // [0][2]<->[2][0]
