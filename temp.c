@@ -6,7 +6,7 @@
 #include <stdio.h>
 int main(int argc, const char *argv[])
 {
-	int a[10] = {1,5,3,2,9,6,8,0,4,7};
+	int a[10] = {1,5,3,2,9,6,8,4,0,7};
 	int max;
 
 	for(i=0; i<9; i++)   //10个数轮询9次
